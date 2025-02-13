@@ -80,19 +80,52 @@ const map2 = new mapboxgl.Map({
     minZoom: 8
 });
 
-// 设施类别的颜色映射
+// 修正后的设施类别颜色映射
 const categoryColors = {
     "Cultural & Educational": "#1f77b4",
     "Public Spaces": "#ff7f0e",
     "Community Centers": "#2ca02c",
     "Medical Facilities": "#d62728",
-    "Bars & Clubs": "#9467bd",
+    "Bars, Clubs & Restaurants": "#9467bd", // 修正此类别
     "Restaurants & Cafes": "#8c564b",
     "Stores & Businesses": "#e377c2",
     "Performance Venues": "#7f7f7f",
-    "Organizations": "#bcbd22",
+    "Organizations & Community Spaces": "#bcbd22", // 可能的修正项
     "Other": "#17becf"
 };
+
+// 读取并加载 LGBTQ 设施 GeoJSON
+map2.on('load', () => {
+    fetch('LGBTQ_facilities_final_corrected.geojson')
+        .then(response => response.json())
+        .then(data => {
+            console.log("Loaded GeoJSON:", data); // 调试，查看数据格式
+            
+            map2.addSource('lgbtq_facilities', {
+                type: 'geojson',
+                data: data
+            });
+
+            map2.addLayer({
+                id: 'lgbtq_facilities_layer',
+                type: 'circle',
+                source: 'lgbtq_facilities',
+                paint: {
+                    'circle-radius': 6,
+                    'circle-color': [
+                        'match',
+                        ['get', 'category'],
+                        ...Object.entries(categoryColors).flat(),  // 自动匹配所有类别
+                        "#17becf"  // 默认颜色（如果找不到匹配项）
+                    ],
+                    'circle-stroke-width': 1,
+                    'circle-stroke-color': '#000'
+                }
+            });
+        })
+        .catch(error => console.error('Error loading GeoJSON:', error));
+});
+
 
 map2.on('load', function () {
     map2.addSource('lgbtq-facilities', {
