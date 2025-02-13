@@ -1,0 +1,2352 @@
+{
+    "type": "FeatureCollection",
+    "name": "turnstileChange",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "103-105 West 135th Street",
+                "LGBTQ Facility Name": "135th Street Branch, New York Public Library",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.941214,
+                    40.814752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Union Square Park",
+                "LGBTQ Facility Name": "Abraham Lincoln Monument",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9910835,
+                    40.7358633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Fifth Avenue & East 135th Street",
+                "LGBTQ Facility Name": "Abraham Lincoln Playground",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9656185,
+                    40.7744161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Grand Army Plaza",
+                "LGBTQ Facility Name": "Abraham Lincoln Sculpture",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9701254,
+                    40.6740248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Wall Street & Broadway / 11 Wall Street",
+                "LGBTQ Facility Name": "ACT UP Demonstrations on Wall Street",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0088244,
+                    40.7060255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "East Drive at West 83rd Street, Central Park",
+                "LGBTQ Facility Name": "Alexander Hamilton Monument",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.975819,
+                    40.7854791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "East 135th Street & Fifth Avenue",
+                "LGBTQ Facility Name": "Ali Forney Murder Location",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9234252,
+                    40.8068278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "2 Hylan Boulevard",
+                "LGBTQ Facility Name": "Alice Austen Park",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0630357,
+                    40.6151254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "215-223 West 49th Street",
+                "LGBTQ Facility Name": "Ambassador Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985001,
+                    40.761259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "200 Central Park West",
+                "LGBTQ Facility Name": "American Museum of Natural History",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9738201,
+                    40.7812654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "West 43rd Street (Between Seventh and Eighth Avenues)",
+                "LGBTQ Facility Name": "Anti-Police Brutality Protest in Response to the Blue\u2019s Bar Raids",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98973831,
+                    40.75819511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "31 Union Square West",
+                "LGBTQ Facility Name": "Antonio Lopez & Juan Ramos Studio / Juan Ramos & Paul Caranicas Residence & Studio",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9907939,
+                    40.7367279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "253 West 125th Street",
+                "LGBTQ Facility Name": "Apollo Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9500464,
+                    40.8100249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "240 Columbus Avenue",
+                "LGBTQ Facility Name": "Arturo Martin Garcia & Victor\u2019s Caf\u00e9 Mural",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9793528,
+                    40.7769784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "85 South Oxford Street",
+                "LGBTQ Facility Name": "Audre Lorde Project",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9733994,
+                    40.6867284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "243-259 West 52nd Street",
+                "LGBTQ Facility Name": "August Wilson Theater (originally Guild Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984199,
+                    40.763371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "106 Central Park South",
+                "LGBTQ Facility Name": "Barbizon-Plaza Hotel",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9767509,
+                    40.7657202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Ralph Bunche Park",
+                "LGBTQ Facility Name": "Bayard Rustin Plaque",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9697636,
+                    40.7492889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "901 Father Capodanno Boulevard",
+                "LGBTQ Facility Name": "Beach Haven Bar",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0854307,
+                    40.574603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "462 First Avenue",
+                "LGBTQ Facility Name": "Bellevue Hospital",
+                "Facility Category": "Medical Facilities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9759792,
+                    40.7399927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "242-250 West 45th Street",
+                "LGBTQ Facility Name": "Bernard B. Jacobs Theater (originally Royale Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987731,
+                    40.758632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "222 West 45th Street",
+                "LGBTQ Facility Name": "Booth Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9868987,
+                    40.7584168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1681 Broadway",
+                "LGBTQ Facility Name": "Broadway Theater (interior)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831593,
+                    40.7632778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "170th Street and Grand Concourse",
+                "LGBTQ Facility Name": "Bronx Pride March",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.913772,
+                    40.8386559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "141 Montague Street",
+                "LGBTQ Facility Name": "Brooklyn Heights Press Offices",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9936617,
+                    40.6948169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "5th Avenue & 3rd Street",
+                "LGBTQ Facility Name": "Brooklyn Pride March",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9656185,
+                    40.7744161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1 Sheridan Square",
+                "LGBTQ Facility Name": "Caf\u00e9 Society / Ridiculous Theatrical Company",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0018082,
+                    40.7328387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "356 West 18th Street",
+                "LGBTQ Facility Name": "Callen-Lorde Community Health Center",
+                "Facility Category": "Medical Facilities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.003111,
+                    40.7431877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "881 Seventh Avenue",
+                "LGBTQ Facility Name": "Carnegie Hall",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98036157,
+                    40.76510379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "296 Ninth Avenue",
+                "LGBTQ Facility Name": "Church of the Holy Apostles",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9987536,
+                    40.7492675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "City Hall Park",
+                "LGBTQ Facility Name": "City Hall Park",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0065164,
+                    40.7124142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "57 St. Mark's Place",
+                "LGBTQ Facility Name": "Club 57",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9863473,
+                    40.7283624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "230 West 74th Street",
+                "LGBTQ Facility Name": "Continental Baths at the Ansonia Hotel",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9821835,
+                    40.7803152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "58 Walker Street",
+                "LGBTQ Facility Name": "Cory Book Service",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0030409,
+                    40.7190847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "438-444 Hudson Street",
+                "LGBTQ Facility Name": "Cubby Hole / Henrietta Hudson",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0064631,
+                    40.731133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Dag Hammarskj\u00f6ld Plaza",
+                "LGBTQ Facility Name": "Dag Hammarskj\u00f6ld Plaza / Katharine Hepburn Garden",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9684986,
+                    40.7522545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "67 Stevenson Place",
+                "LGBTQ Facility Name": "Denishawn House",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.788414,
+                    -32.9268375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "154 West 10th Street",
+                "LGBTQ Facility Name": "Djuna Books",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0015401,
+                    40.734387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "160-164 West 129th Street",
+                "LGBTQ Facility Name": "Drag Balls at Imperial Lodge of Elks",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946056,
+                    40.811093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1697-1699 Broadway",
+                "LGBTQ Facility Name": "Ed Sullivan Theater (originally Hammerstein\u2019s Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98298983,
+                    40.76388361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Riverside Park",
+                "LGBTQ Facility Name": "Eleanor Roosevelt Monument",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98573262,
+                    40.78084504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Christopher Park",
+                "LGBTQ Facility Name": "Elmer Ephraim Ellsworth Flagpole",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0021239,
+                    40.733637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "350 Fifth Avenue",
+                "LGBTQ Facility Name": "Empire State Building",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9857146,
+                    40.748763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "243 West 47th Street",
+                "LGBTQ Facility Name": "Ethel Barrymore Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9861712,
+                    40.7601399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "230 West 49th Street",
+                "LGBTQ Facility Name": "Eugene O\u2019Neill Theater (originally Forrest Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9857178,
+                    40.7610848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "28 West 28th Street",
+                "LGBTQ Facility Name": "Everard Baths",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9969525,
+                    40.7490902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Seventh Avenue (35th to 41st Streets)",
+                "LGBTQ Facility Name": "Fashion Walk of Fame",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98801033,
+                    40.75437117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Literary Walk, The Mall, Central Park",
+                "LGBTQ Facility Name": "Fitz-Greene Halleck Monument",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9715901,
+                    40.7723522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "159 Bleecker Street",
+                "LGBTQ Facility Name": "Founding of The League at the Amato Opera Theater",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9998523,
+                    40.7287286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "2850 Broadway",
+                "LGBTQ Facility Name": "Gay Activists Alliance \u201cDemonstration of Affection\u201d at the Gold Rail Tavern",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9661805,
+                    40.8044801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "180 Christopher Street",
+                "LGBTQ Facility Name": "Gay Activists Alliance Community Demonstration / Zap at Christopher\u2019s End / Bailey-Holt House",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0099772,
+                    40.7322754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "240 Centre Street",
+                "LGBTQ Facility Name": "Gay Activists Alliance Protest at New York City Police Headquarters",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9979839,
+                    40.7201385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "2060 Sedgwick Avenue",
+                "LGBTQ Facility Name": "Gay Activists Alliance Zap at Gould Memorial Library",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9141508,
+                    40.8587913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "277 Park Avenue",
+                "LGBTQ Facility Name": "Gay Activists Alliance Zap at Household Finance Corp.",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9741415,
+                    40.75519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1335 Sixth Avenue",
+                "LGBTQ Facility Name": "Gay Activists Alliance Zap at the Inner Circle Dinner at the New York Hilton Hotel",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9791521,
+                    40.7624695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "110 Livingston Street",
+                "LGBTQ Facility Name": "Gay Activists Alliance Zap at the New York City Board of Education",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9899258,
+                    40.6909831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1 Centre Street",
+                "LGBTQ Facility Name": "Gay Activists Alliance Zap at the New York City Marriage Bureau",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0038516,
+                    40.7130948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "120 East 56th Street",
+                "LGBTQ Facility Name": "Gay Activists Alliance Zap at the New York Republican State Committee Headquarters",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9706578,
+                    40.7604884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "99 Clinton Street",
+                "LGBTQ Facility Name": "Gay Alliance of Brooklyn at Spencer Memorial Church",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9927133,
+                    40.6932054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "530 Sixth Avenue / 69 West 14th Street",
+                "LGBTQ Facility Name": "Gay Liberation Front at Alternate U.",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99645213,
+                    40.73745472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "105 Second Avenue",
+                "LGBTQ Facility Name": "GAY POWER Offices",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.988727,
+                    40.727693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "41 East 57th Street",
+                "LGBTQ Facility Name": "George Platt Lynes at the Pierre Matisse Gallery",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9718544,
+                    40.7623554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Fifth Avenue & East 61st Street",
+                "LGBTQ Facility Name": "German-American Steuben Parade",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9656185,
+                    40.7744161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "53 West 19th Street",
+                "LGBTQ Facility Name": "Gianni\u2019s",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99380347,
+                    40.74045401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "500 25th Street",
+                "LGBTQ Facility Name": "Green-Wood Cemetery",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.996384,
+                    40.659324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1750 York Avenue",
+                "LGBTQ Facility Name": "Greg Louganis & Gay Games IV at Asphalt Green AquaCenter",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9444976,
+                    40.779167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "77th Street & Broadway",
+                "LGBTQ Facility Name": "Guillermo Vasquez Corner",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6290854,
+                    41.7959939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "180 West 135th Street",
+                "LGBTQ Facility Name": "Harlem YMCA",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9429395,
+                    40.8146835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "80 Montague Street",
+                "LGBTQ Facility Name": "Heights Supper Club",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9962429,
+                    40.6951727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Castle Williams & Fort Jay",
+                "LGBTQ Facility Name": "Henry Gerber on Governors Island",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0193374,
+                    40.6928328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "24 West 25th Street",
+                "LGBTQ Facility Name": "HoMoVISIONES",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9904096,
+                    40.743293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "139-141 West 44th Street",
+                "LGBTQ Facility Name": "Hudson Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9846144,
+                    40.7569127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "249 West 45th Street",
+                "LGBTQ Facility Name": "Imperial Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9873417,
+                    40.7589745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "240 West 38th Street",
+                "LGBTQ Facility Name": "Isaia NYC Fashion House",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99031404,
+                    40.75417513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "St. Nicholas Park",
+                "LGBTQ Facility Name": "James Baldwin Lawn",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9487476,
+                    40.8174689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "55 Washington Square South",
+                "LGBTQ Facility Name": "Judson Memorial Church",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9983832,
+                    40.7302192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "159 West 10th Street",
+                "LGBTQ Facility Name": "Julius\u2019",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0017116,
+                    40.7345329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Crack is Wack Playground",
+                "LGBTQ Facility Name": "Keith Haring & \u201cCrack is Wack\u201d",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9319775,
+                    40.8041345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "74 East 4th Street",
+                "LGBTQ Facility Name": "La MaMa Experimental Theatre Club",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.990137,
+                    40.7263774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "33 Barrow Street",
+                "LGBTQ Facility Name": "Labyris",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0033546,
+                    40.7322874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "St. Nicholas Houses",
+                "LGBTQ Facility Name": "Langston Hughes Playground",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94683955,
+                    40.8125227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "333 West 17th Street",
+                "LGBTQ Facility Name": "Lavender Menace Action at Second Congress to Unite Women",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0022418,
+                    40.7425099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "400 West 14th Street",
+                "LGBTQ Facility Name": "Lee G. Brewster\u2019s Mardi Gras Boutique",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0057781,
+                    40.7409242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "484 14th Street",
+                "LGBTQ Facility Name": "Lesbian Herstory Archives",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9801378,
+                    40.7303221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "127B Prince Street",
+                "LGBTQ Facility Name": "Leslie-Lohman Gallery (now Leslie-Lohman Project Space)",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0001048,
+                    40.7256173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "247 West 11th Street",
+                "LGBTQ Facility Name": "Liberation House",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.003198,
+                    40.7364418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Montgomery & Monroe Streets",
+                "LGBTQ Facility Name": "Lillian D. Wald Playground",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3077368,
+                    32.3792233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Lincoln Center",
+                "LGBTQ Facility Name": "Lincoln Center: Metropolitan Opera House",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9834889,
+                    40.7724641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Lincoln Center",
+                "LGBTQ Facility Name": "Lincoln Center: Philharmonic Hall",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9834889,
+                    40.7724641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "67 Bleecker Street",
+                "LGBTQ Facility Name": "Louis Sullivan & the Bayard-Condict Building",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9950383,
+                    40.7264589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "65-30 Kissena Boulevard",
+                "LGBTQ Facility Name": "Lucille Kyvallos Court",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8148669,
+                    40.7369989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "203-217 West 46th Street",
+                "LGBTQ Facility Name": "Lunt-Fontanne Theater (originally Globe Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9877476,
+                    40.7595382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "213 West 42nd Street / 220 West 43rd Street",
+                "LGBTQ Facility Name": "Lyric Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98778728,
+                    40.75669461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Morris Avenue & East 181st Street",
+                "LGBTQ Facility Name": "Mabel Hampton Garden",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3862631,
+                    32.6794799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Theodore Roosevelt Park",
+                "LGBTQ Facility Name": "Margaret Mead Green",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9742272,
+                    40.7824902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "90 Kent Avenue",
+                "LGBTQ Facility Name": "Marsha P. Johnson State Park",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9609675,
+                    40.7215481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "59 Christopher Street",
+                "LGBTQ Facility Name": "Mattachine Society Office",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0023888,
+                    40.7338085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "3 Hyatt Street",
+                "LGBTQ Facility Name": "Mayfair Bar & Grill",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.076687,
+                    40.6423815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "201 West 13th Street",
+                "LGBTQ Facility Name": "Metropolitan-Duane United Methodist Church",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0003114,
+                    40.7381373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "246 East 58th Street",
+                "LGBTQ Facility Name": "Modulightor Building",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9653779,
+                    40.7599986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "28 East 125th Street",
+                "LGBTQ Facility Name": "Mt. Morris Baths",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9410299,
+                    40.8057457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "239-247 West 45th Street",
+                "LGBTQ Facility Name": "Music Box Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987141,
+                    40.7588859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "80 Fifth Avenue",
+                "LGBTQ Facility Name": "National Gay Task Force Headquarters",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9941595,
+                    40.7360294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "208 West 41st Street",
+                "LGBTQ Facility Name": "Nederlander Theater (originally National Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9882868,
+                    40.7555066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Whitehall Street, south of Water & State Streets",
+                "LGBTQ Facility Name": "New Amsterdam \u201cPlace of Execution\u201d",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01296722,
+                    40.7018134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "6 St. Mark's Place",
+                "LGBTQ Facility Name": "New St. Marks Baths",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.989568,
+                    40.72909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "220 West 43rd Street",
+                "LGBTQ Facility Name": "New York Area Council of the Mattachine Society, Inc. at Avlon Studios",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98769198,
+                    40.75715068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "58 Bleecker Street",
+                "LGBTQ Facility Name": "New York Infirmary for Indigent Women & Children",
+                "Facility Category": "Medical Facilities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9950548,
+                    40.7259438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "236 East 3rd Street",
+                "LGBTQ Facility Name": "Nuyorican Poets Caf\u00e9",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9818528,
+                    40.7218713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Bryant Park",
+                "LGBTQ Facility Name": "NYC Dyke March",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9829529,
+                    40.7535367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "15 Christopher Street",
+                "LGBTQ Facility Name": "Oscar Wilde Memorial Bookshop",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0005796,
+                    40.7342225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "84 King Street",
+                "LGBTQ Facility Name": "Paradise Garage",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00646462,
+                    40.72808615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "70 Beach Street",
+                "LGBTQ Facility Name": "Park Villa II",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.340819,
+                    5.4164199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Pelham Bay Park",
+                "LGBTQ Facility Name": "Pelham Bay Park & Orchard Beach",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8101103,
+                    40.8667516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "647 Broadway",
+                "LGBTQ Facility Name": "Pfaff\u2019s",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9958073,
+                    40.7268215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Dag Hammarskj\u00f6ld Plaza",
+                "LGBTQ Facility Name": "Picket at Dag Hammarskj\u00f6ld Plaza, Fourth-Ever U.S. Gay Rights Protest",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9684986,
+                    40.7522545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "39 Whitehall Street",
+                "LGBTQ Facility Name": "Picket in Front of U.S. Army Building, First-Ever U.S. Gay Rights Protest",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0127988,
+                    40.7029928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "206 Thompson Street",
+                "LGBTQ Facility Name": "Portofino",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9993943,
+                    40.7285928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "851 Prospect Avenue",
+                "LGBTQ Facility Name": "Prospect Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9020466,
+                    40.8202758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "89th Street & 37th Avenue",
+                "LGBTQ Facility Name": "Queens Pride Parade",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5315347,
+                    35.5611181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "2248 Broadway",
+                "LGBTQ Facility Name": "Richard Hunt at Reeves Teletape Studios",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.978906,
+                    40.784815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "226-236 West 46th Street",
+                "LGBTQ Facility Name": "Richard Rodgers Theater (originally Chanin\u2019s 46th Street Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986742,
+                    40.759039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "130 Stuyvesant Place",
+                "LGBTQ Facility Name": "Richmond College",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0767577,
+                    40.642248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "186 5th Avenue",
+                "LGBTQ Facility Name": "Rising Cafe",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9898543,
+                    40.7414824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "45 Rivington Street",
+                "LGBTQ Facility Name": "Rivington House",
+                "Facility Category": "Medical Facilities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9911294,
+                    40.7206952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1000 Richmond Terrace",
+                "LGBTQ Facility Name": "Sailors\u2019 Snug Harbor",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1006586,
+                    40.6419663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "261-265 West 47th Street",
+                "LGBTQ Facility Name": "Samuel J. Friedman Theater (originally Biltmore Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986739,
+                    40.760371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "515 Malcolm X Boulevard",
+                "LGBTQ Facility Name": "Schomburg Center for Research in Black Culture",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9409189,
+                    40.8146271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "48-52 Eighth Avenue",
+                "LGBTQ Facility Name": "Sea Colony",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00359495,
+                    40.73841226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "The Park at Athens Square",
+                "LGBTQ Facility Name": "Socrates & Sophocles Statues",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9223319,
+                    40.767786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "South Beach",
+                "LGBTQ Facility Name": "South Beach, Franklin D. Roosevelt Boardwalk & Parking Lots",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1340772,
+                    25.7826123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "246 West 44th Street",
+                "LGBTQ Facility Name": "St. James Theater (originally Erlanger Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9881023,
+                    40.7580283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "43rd Street & Skillman Avenue",
+                "LGBTQ Facility Name": "St. Pat\u2019s for All Parade",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92079275,
+                    40.74718809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1084 Bergen Street",
+                "LGBTQ Facility Name": "Starlite Lounge",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9501986,
+                    40.6759008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "715 Ocean Terrace",
+                "LGBTQ Facility Name": "Staten Island Community College",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1039776,
+                    40.6092018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "124-130 West 43rd Street",
+                "LGBTQ Facility Name": "Stephen Sondheim Theater (originally Henry Miller\u2019s Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9848523,
+                    40.7558448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "116 Seventh Avenue South",
+                "LGBTQ Facility Name": "Stewart\u2019s Cafeteria",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0027111,
+                    40.7341222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "26 West 56th Street",
+                "LGBTQ Facility Name": "Stop the Hate Radio Actions at the Spanish Broadcasting System Headquarters",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97604731,
+                    40.76281444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "116th Street & Broadway",
+                "LGBTQ Facility Name": "Student Homophile League at Earl Hall, Columbia University",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93902,
+                    40.7975331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "4 St. Mark's Place",
+                "LGBTQ Facility Name": "Tempo Playhouse / Key Theater / New Bowery Theater / Bridge Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9895538,
+                    40.7292666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "86 University Place",
+                "LGBTQ Facility Name": "The Bagatelle",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9932723,
+                    40.7336501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "768 Fifth Avenue",
+                "LGBTQ Facility Name": "The Plaza",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9743251,
+                    40.7646318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "157 Bleecker Street",
+                "LGBTQ Facility Name": "The Slide",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9997156,
+                    40.7287063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "23-29 Washington Place",
+                "LGBTQ Facility Name": "The Triangle Fire & Women\u2019s Trade Union League",
+                "Facility Category": "Stores & Businesses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.995358,
+                    40.730095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "227 West 42nd Street",
+                "LGBTQ Facility Name": "Todd Haimes Theater (interior) (originally Selwyn Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9881743,
+                    40.7567795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "56 Greenwich Avenue",
+                "LGBTQ Facility Name": "Uncle Charlie\u2019s",
+                "Facility Category": "Bars, Clubs & Restaurants"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0004721,
+                    40.7359015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "93 St. Edwards Street",
+                "LGBTQ Facility Name": "Walt Whitman Branch, Brooklyn Public Library",
+                "Facility Category": "Cultural & Educational"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9777267,
+                    40.6944632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "Cadman Plaza East",
+                "LGBTQ Facility Name": "Walt Whitman Park",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9899414,
+                    40.6977938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "219 West 48th Street",
+                "LGBTQ Facility Name": "Walter Kerr Theater (originally Ritz Theater)",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9856739,
+                    40.7607127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "135 & 133 West 4th Street",
+                "LGBTQ Facility Name": "Washington Square United Methodist Church & Parish House",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00001157,
+                    40.73149385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1 Tennis Place",
+                "LGBTQ Facility Name": "West Side Tennis Club",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8499268,
+                    40.7192438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "57 Bethune Street",
+                "LGBTQ Facility Name": "Westbeth: Congregation Beit Simchat Torah",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0084332,
+                    40.7370472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "404 Lafayette Street",
+                "LGBTQ Facility Name": "WeWah & BarCheeAmpe at the American Indian Community House",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9930117,
+                    40.7284921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "1634 Broadway",
+                "LGBTQ Facility Name": "Winter Garden Theater",
+                "Facility Category": "Performance Venues"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9836366,
+                    40.761756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "54 Seventh Avenue South",
+                "LGBTQ Facility Name": "Women\u2019s Coffeehouse",
+                "Facility Category": "Organization & Community Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0044776,
+                    40.7314597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Address": "517 East 233rd Street",
+                "LGBTQ Facility Name": "Woodlawn Cemetery",
+                "Facility Category": "Public Spaces"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8641508,
+                    40.8958778
+                ]
+            }
+        }
+    ]
+}
