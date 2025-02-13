@@ -18,14 +18,14 @@
 
     .map-container {
       width: 80%;
-      height: 600px;
+      height: 600px; /* ✅ 确保有足够的高度 */
       margin: 20px auto;
       position: relative;
     }
 
     #map1, #map2 {
       width: 100%;
-      height: 100%;
+      height: 100%; /* ✅ 确保地图 `div` 正确占位 */
     }
 
     .legend {
@@ -41,19 +41,6 @@
       z-index: 1000;
     }
 
-    .legend-item {
-      display: flex;
-      align-items: center;
-      margin: 5px 0;
-    }
-
-    .legend-key {
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      margin-right: 5px;
-    }
-
   </style>
 </head>
 <body>
@@ -62,16 +49,15 @@
     <p>Is the distribution of resources equitable between communities dominated by LGBTQ groups and those dominated by cishet groups?</p>
   </div>
 
-  <!-- 第一张地图：Neighborhood Household Ratio -->
+  <!-- ✅ 第一张地图 -->
   <div class="map-container">
     <div id="map1"></div>
     <div id="legend1" class="legend"><strong>Neighborhood (Homo Percentage)</strong></div>
   </div>
 
-  <!-- 第二张地图：LGBTQ Facilities -->
+  <!-- ✅ 第二张地图 -->
   <div class="map-container">
     <div id="map2"></div>
-    <div id="legend2" class="legend"><strong>LGBTQ Facility Types</strong></div>
   </div>
 
 </body>
